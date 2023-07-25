@@ -4,15 +4,16 @@ function Contact() {
     return (
         <>
         <Layout/>
-        <h3>Ubon Ratchathani University</h3>
+        <h3>ผู้จัดทำ</h3>
         <div>
-            85 Sathonlamark Road
+            นางสาวสุทธิณี สาริก
             <br />
-            Warin Chamrap District
+            รหัสนักศึกษา : 65114340837
             <br />
-            Ubon Ratchathani
+            คณะวิทยาศาสตร์ สาขาเทคโนโลยีสารสนเทศและการสื่อสาร
             <br />
-            Thailand 34190
+            <img src="MY9.jpg" alt="menu1"></img>
+            
         </div>
         </>
     );
